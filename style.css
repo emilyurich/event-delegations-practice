@@ -1,0 +1,31 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.box {
+  width: 40%;
+  height: 200px;
+  margin: 20px 0;
+}
+
+.one {
+  background-color: red;
+}
+
+.two {
+  background-color: orange;
+}
+
+.three {
+  background-color: yellow;
+}
+
+.four {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
